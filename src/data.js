@@ -23,11 +23,11 @@ export const productsCollection = [
     
 
 export const clients = [
-        { id: 1, name: 'Client 1', img: '/public/assets/logoipsum-239.png' },
-        { id: 2, name: 'Client 2', img: '/public/assets/logoipsum-240.png' },
-        { id: 3, name: 'Client 3', img: '/public/assets/logoipsum-241.png' },
-        { id: 4, name: 'Client 4', img: '/public/assets/logoipsum-242.png' },
-        { id: 5, name: 'Client 5', img: '/public/assets/logoipsum-243.png' },
+        { id: 1, name: 'Client 1', img: '/assets/logoipsum-239.png' },
+        { id: 2, name: 'Client 2', img: '/assets/logoipsum-240.png' },
+        { id: 3, name: 'Client 3', img: '/assets/logoipsum-241.png' },
+        { id: 4, name: 'Client 4', img: '/assets/logoipsum-242.png' },
+        { id: 5, name: 'Client 5', img: '/assets/logoipsum-243.png' },
     ]
 
 export const testimonials = [

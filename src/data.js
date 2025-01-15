@@ -5,29 +5,29 @@ export const productsCollection = [
         name: 'Product 1',
         role: 'Fashion Store',
         desc: 'Shop Ladies fashion at missguided USA. With Hundreds fashion collection hitting our shelves every week',
-        img: '/src/assets/7xm.xyz920344.jpg'
+        img: '/public/assets/7xm.xyz920344.jpg'
     },
     {
         id: 2,
         name: 'Product 2', role: 'Home Furniture',
-        desc: 'Shop Furniture at missguided USA. With hundreds fashion collection hitting our shelves every week', img: '/src/assets/7xm.xyz771365.jpg'
+        desc: 'Shop Furniture at missguided USA. With hundreds fashion collection hitting our shelves every week', img: '/public/assets/7xm.xyz771365.jpg'
     },
     {
         id: 3,
         name: 'Product 3',
         role: 'super Gadgets',
         desc: 'Shop Gadgets at missguided USA. With Hundreds fashion collection hitting our shelves every week',
-        img: '/src/assets/7xm.xyz811918.jpg'
+        img: '/public/assets/7xm.xyz811918.jpg'
     },
     ]
     
 
 export const clients = [
-        { id: 1, name: 'Client 1', img: '/src/assets/logoipsum-239.png' },
-        { id: 2, name: 'Client 2', img: '/src/assets/logoipsum-240.png' },
-        { id: 3, name: 'Client 3', img: '/src/assets/logoipsum-241.png' },
-        { id: 4, name: 'Client 4', img: '/src/assets/logoipsum-242.png' },
-        { id: 5, name: 'Client 5', img: '/src/assets/logoipsum-243.png' },
+        { id: 1, name: 'Client 1', img: '/public/assets/logoipsum-239.png' },
+        { id: 2, name: 'Client 2', img: '/public/assets/logoipsum-240.png' },
+        { id: 3, name: 'Client 3', img: '/public/assets/logoipsum-241.png' },
+        { id: 4, name: 'Client 4', img: '/public/assets/logoipsum-242.png' },
+        { id: 5, name: 'Client 5', img: '/public/assets/logoipsum-243.png' },
     ]
 
 export const testimonials = [

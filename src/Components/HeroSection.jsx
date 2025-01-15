@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import HeroBg from '../assets/HeroBg.png'
+import HeroBg from '../../public/assets/HeroBg.png'
 import { Fade, Slide } from 'react-awesome-reveal'
 
 const HeroSection = () => {

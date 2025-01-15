@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { BiMenu, BiX } from 'react-icons/bi'
-import logo from '../assets/logo-no-background.png'
+import logo from '../../public/assets/logo-no-background.png'
 
 const Navbar = () => {
     const [isOpen, setIsOpen] = useState(false)

@@ -1,5 +1,5 @@
 import React from 'react';
-import ContactBg from '../assets/contact-us-bg.png';
+import ContactBg from '../../public/assets/contact-us-bg.png';
 import { Fade, Slide } from 'react-awesome-reveal';
 
 const ContactUs = () => {

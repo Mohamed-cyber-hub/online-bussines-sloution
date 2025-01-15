@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import products1 from '../assets/product-1.png'
 import products2 from '../assets/customers.png'
-import DataChart from '../assets/products/Component 12.png'
+import DataChart from '../assets/Component 12.png'
 import Button from './Button'
 import { productsCollection } from '../data'
 import { Fade, Slide } from 'react-awesome-reveal'

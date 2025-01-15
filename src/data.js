@@ -5,19 +5,19 @@ export const productsCollection = [
         name: 'Product 1',
         role: 'Fashion Store',
         desc: 'Shop Ladies fashion at missguided USA. With Hundreds fashion collection hitting our shelves every week',
-        img: '/public/assets/7xm.xyz920344.jpg'
+        img: '/assets/7xm.xyz920344.jpg'
     },
     {
         id: 2,
         name: 'Product 2', role: 'Home Furniture',
-        desc: 'Shop Furniture at missguided USA. With hundreds fashion collection hitting our shelves every week', img: '/public/assets/7xm.xyz771365.jpg'
+        desc: 'Shop Furniture at missguided USA. With hundreds fashion collection hitting our shelves every week', img: '/assets/7xm.xyz771365.jpg'
     },
     {
         id: 3,
         name: 'Product 3',
         role: 'super Gadgets',
         desc: 'Shop Gadgets at missguided USA. With Hundreds fashion collection hitting our shelves every week',
-        img: '/public/assets/7xm.xyz811918.jpg'
+        img: '/assets/7xm.xyz811918.jpg'
     },
     ]
     

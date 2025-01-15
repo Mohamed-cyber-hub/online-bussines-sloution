@@ -24,7 +24,9 @@ const Price = () => {
                 <div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-12'>
                     {plans.map((plan, index) => (
                         <Slide key={index} direction="up" duration={800} delay={200} triggerOnce>
-                            <PricingCard {...plan} />
+                            <div className="h-full">
+                                <PricingCard {...plan} />
+                            </div>
                         </Slide>
                     ))}
                 </div>

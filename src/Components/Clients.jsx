@@ -7,7 +7,7 @@ const Clients = () => {
             <div className='max-w-6xl mx-auto'>
                 <div className='flex flex-col md:flex-row lg:flex-row items-center justify-center gap-12'>
                     
-                    <Fade duration={1000} delay={200} triggerOnce>
+                    <Fade duration={1000} delay={500} triggerOnce>
                         <div className='text-left'>
                             <h4 className='text-lg sm:text-xl lg:text-xl text-slate-500'>
                                 Companies We Helped Grow
